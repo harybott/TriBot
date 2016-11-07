@@ -33,8 +33,8 @@
       <file leaf-file-name="TestWoodCutting.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/scripts/TestWoodCutting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+            <state relative-caret-position="306">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -50,6 +50,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -288,11 +291,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Roaming/.tribot/dependancies/TRiBot.jar!/" />
+    <property name="last_opened_file_path" value="D:/Program Files/Git/cmd/git.exe" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -1098,12 +1101,12 @@
       <workItem from="1478326225816" duration="8306000" />
       <workItem from="1478391697242" duration="6149000" />
       <workItem from="1478412663285" duration="3819000" />
-      <workItem from="1478480417137" duration="9995000" />
+      <workItem from="1478480417137" duration="11830000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44095000" />
+    <option name="totallyTimeSpent" value="45930000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1508,8 +1511,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/scripts/TestWoodCutting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        <state relative-caret-position="306">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
