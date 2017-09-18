@@ -1,36 +1,51 @@
 package scripts;
 
-
-import org.tribot.api.input.Keyboard;
-import org.tribot.api.input.Mouse;
 import org.tribot.script.Script;
 import org.tribot.script.ScriptManifest;
 
 /**
- * Created by Administrator on 2016/11/3.
+ * @Description :
+ * @Author : Zwww
+ * @Time : 2016/11/9  22:57
+ * @Version : V1.0.0
  */
+
 
 @ScriptManifest(authors = "Zwww", name = "TestWoodCutting", category = "Test")
 public class TestWoodCutting extends Script {
 
+
     //Inventory 我的程序 的是
-    private static final int num = 0;
+    private int num = 0;
+    private int lin = 1
 
+    public int getNum() {
+        return num;
+    }
 
-    public static int getNum() {
-        System.out.println("-----------Zwww.com-----------  = " + num + ", " + "当前类 = TestWoodCutting.getNum()");
-        System.out.println("-----------Zwww.com----------- dir = " + num + ", " + "当前类 = TestWoodCutting.getNum()");
-        System.out.println("-----------Zwww.com-----------  = " + num + ", " + "当前类 = TestWoodCutting.getNum()");
-
-        Keyboard.getSpeed();
-        Mouse.getSpeed();
-        System.out.println("dir dir dir " + dir + num);
-
-
-        return 0;
+    public void setNum(int num) {
+        this.num = num;
     }
 
     public void run() {
+        //region Description
+        for (int i = 0; i <; i++) {
 
+        }
+        System.out.println("-----------Zwww.com----------- dddd = " + dddd + ", " + "当前类 = TestWoodCutting.run()");
+        System.out.println("-----------Zwww.com-----------  = " + +", " + "当前类 = TestWoodCutting.run()");
+
+        System.out.println("");
+        //endregion
+
+    }
+
+
+    public int getLin() {
+        return lin;
+    }
+
+    public void setLin(int lin) {
+        this.lin = lin;
     }
 }
